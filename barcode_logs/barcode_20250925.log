@@ -1,0 +1,10 @@
+2025-09-25 23:00:07,864 - INFO - Scan #1 | Barcode: 8801043450690 | Length: 13
+2025-09-25 23:00:30,609 - INFO - Scan #2 | Barcode: 8800250590083 | Length: 13
+2025-09-25 23:00:54,311 - INFO - Scan #3 | Barcode: d | Length: 1
+2025-09-25 23:05:24,293 - INFO - Scan #4 | Barcode: /opt/homebrew/bin/python3 /Users/leeyunji/25-2-Capstone-Project-I/.github/ISSUE_TEMPLATE/barcode.py | Length: 99
+2025-09-25 23:05:38,327 - INFO - 프로그램 종료 - 총 스캔 수: 4
+2025-09-25 23:06:03,629 - INFO - Scan #1 | Barcode: 8801043450690 | Length: 13
+2025-09-25 23:06:19,516 - INFO - Scan #2 | Barcode: 8800250590083 | Length: 13
+2025-09-25 23:06:31,147 - INFO - 프로그램 종료 - 총 스캔 수: 2
+2025-09-25 23:08:50,950 - INFO - Scan #1 | Barcode: 8801043450690 | Length: 13
+2025-09-25 23:09:12,652 - INFO - 프로그램 종료 - 총 스캔 수: 1
