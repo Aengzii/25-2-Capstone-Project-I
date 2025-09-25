@@ -2,7 +2,7 @@
 name: 'Issue: 이슈 추가 템플릿'
 about: 새로운 기능, UI 변경 등의 개발을 진행하기 전 작성하는 이슈를 위한 템플릿
 title: "[Label] 해야하는 태스크 이름 (STEP0)"
-labels: ''
+labels: Feat
 assignees: ''
 
 ---
